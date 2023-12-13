@@ -79,4 +79,8 @@ body {
 }
 .links .link a:hover {
   border-bottom: 8px solid #EC6543;
+}
+
+.pw {
+  font-size: 0.8rem;
 }/*# sourceMappingURL=style.css.map */
